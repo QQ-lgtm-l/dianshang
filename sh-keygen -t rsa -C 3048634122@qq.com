@@ -1,0 +1,10 @@
+user.name=QQ-lgtm-l
+user.email=3048634122@qq.com
+credential.helper=manager-core
+credential.https://gitee.com.provider=generic
+credential.https://gitcode.com.provider=generic
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+safe.directory=C:/Users/30786/Desktop/vue3-guiguzhenxuan
